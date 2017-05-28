@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Final Sem\Capstone\Popular-Movies-App-master\Popular-Movies-App-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="971b8eafdf856e447b43e0da7b017c79cb36e211">
+        <dex dex="E:\Final Sem\Capstone\Popular-Movies-App-master\Popular-Movies-App-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a42f3c5de644422dff53c20e2ecdd0a9030c8c82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hhars\.android\build-cache\110d159592ee4f1709e637ddf412138768a9719e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e1fa5e1123997a55e3ed65b44892993ff4b58cfe">
+        <dex dex="J:\Final Sem\Capstone\Popular-Movies-App-master\Popular-Movies-App-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0691382d237a270248d25a6b0e05e8b5fc5fd9da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hhars\.android\build-cache\c6e9ea14399c9a7121d7768ab07e2562c408fdee\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d3aba1c188fea5ee83ebbcb458be29d1cc0ef483">
+        <dex dex="J:\Final Sem\Capstone\Popular-Movies-App-master\Popular-Movies-App-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3711a3cf67ef979c358f877711b06cce19a22f36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hhars\.android\build-cache\5f21751e8b105f689f47f8fbfc20601fdb9ae294\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eceeb0ebd0ad0654b20cd5b4f83cee00846efa97">
+        <dex dex="J:\Final Sem\Capstone\Popular-Movies-App-master\Popular-Movies-App-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dc4ffcf62af677543ed487be27c935ef559a0c1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hhars\.android\build-cache\74b163f2bb48c12fbf67e04fcc7767c8d38ad49e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9066b6d4e2536b49e3b58aa301fd925247032df0">
+        <dex dex="J:\Final Sem\Capstone\Popular-Movies-App-master\Popular-Movies-App-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e655a6ec6ffa2f480dffbb23cb9a502d754102bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hhars\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.3.0\1b355f73402020c5a0dcca58affc3ec3dfeabac1\okio-1.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b355f73402020c5a0dcca58affc3ec3dfeabac1">
+        <dex dex="J:\Final Sem\Capstone\Popular-Movies-App-master\Popular-Movies-App-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.3.0_618ac9a4829400c6e9f5a18b9845a32a4ec7ce5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hhars\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.9.0\a681c044244d9fc375198588297a39ba78028423\retrofit-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="J:\Final Sem\Capstone\Popular-Movies-App-master\Popular-Movies-App-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-1.9.0_e659ea1d72d236fd1ce84bca3fc344a63791b4e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hhars\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="J:\Final Sem\Capstone\Popular-Movies-App-master\Popular-Movies-App-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.1_faabd42e5f6ddd0af717b0c19c0ef1cf4534562f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="J:\Final Sem\Capstone\Popular-Movies-App-master\Popular-Movies-App-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="J:\Final Sem\Capstone\Popular-Movies-App-master\Popular-Movies-App-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d00823e85d99ad9ef5ef5399e48a94db9e739482\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hhars\.android\build-cache\86c4677473cefde70a5706c26e7a888ff7ad80ec\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="J:\Final Sem\Capstone\Popular-Movies-App-master\Popular-Movies-App-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1ead70d7152dbecdf215192197d04d70ddefab44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Final Sem\Capstone\Popular-Movies-App-master\Popular-Movies-App-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="E:\Final Sem\Capstone\Popular-Movies-App-master\Popular-Movies-App-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a8c5f97ea01ed1c773a8904a0121b95205010f72\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hhars\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.6.1\86b122e640af09b0723e1fa44083c354ba6d9089\glide-3.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="J:\Final Sem\Capstone\Popular-Movies-App-master\Popular-Movies-App-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.6.1_51a3e456f70637931b138308dc3e66e1b30440b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hhars\.gradle\caches\modules-2\files-2.1\com.squareup.leakcanary\leakcanary-watcher\1.3.1\6904771474c058abfc5912c13d12b02754712165\leakcanary-watcher-1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6904771474c058abfc5912c13d12b02754712165">
+        <dex dex="J:\Final Sem\Capstone\Popular-Movies-App-master\Popular-Movies-App-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\leakcanary-watcher-1.3.1_5ab89e41631e6ce7c12af2bc515a59b14e17c829\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hhars\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.3.0\2e7bc7033dc2c8423e661224171b3133fb155b28\okhttp-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2e7bc7033dc2c8423e661224171b3133fb155b28">
+        <dex dex="J:\Final Sem\Capstone\Popular-Movies-App-master\Popular-Movies-App-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.3.0_614e1e99c1b1e65a00011dacb2095db96ff184c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hhars\.gradle\caches\modules-2\files-2.1\com.squareup.leakcanary\leakcanary-analyzer\1.3.1\325e7401a7ea16918eb39ba8baad8fd5561a55d3\leakcanary-analyzer-1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="325e7401a7ea16918eb39ba8baad8fd5561a55d3">
+        <dex dex="J:\Final Sem\Capstone\Popular-Movies-App-master\Popular-Movies-App-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\leakcanary-analyzer-1.3.1_a0a67f4e13b5c162cca8d82a503921594bc3a357\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hhars\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\okhttp-integration\1.3.1\8ea5a823133bff9f612085e92271c7715ed187a9\okhttp-integration-1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ea5a823133bff9f612085e92271c7715ed187a9">
+        <dex dex="J:\Final Sem\Capstone\Popular-Movies-App-master\Popular-Movies-App-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-integration-1.3.1_3ed00142b67443d3f5cdb4657e4b39b8f28bac5d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hhars\.android\build-cache\9306bd881209a8c64dc0e1da66e8cc2e7d6870b5\output\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="J:\Final Sem\Capstone\Popular-Movies-App-master\Popular-Movies-App-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_05121509245a72e4d4d447ca3552a202b62a5bff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hhars\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="J:\Final Sem\Capstone\Popular-Movies-App-master\Popular-Movies-App-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\javax.inject-1_9d282803700aa7d8ab3ffd5373795738e5a6106b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hhars\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.0.13\b8668706414b5936d38c8a9e4c2be16e3c999c62\rxjava-1.0.13.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b8668706414b5936d38c8a9e4c2be16e3c999c62">
+        <dex dex="J:\Final Sem\Capstone\Popular-Movies-App-master\Popular-Movies-App-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-1.0.13_1ccd66c8a79bf5b2096f80caae322a0b6aea608f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hhars\.android\build-cache\b54b2b6de4cbed684211a84864524bb260e9e52b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="628957a58b6f5908854ec39e087065dec3634916">
+        <dex dex="J:\Final Sem\Capstone\Popular-Movies-App-master\Popular-Movies-App-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cdf55e6b4d3f93e36fef540c62075aa421c1910e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hhars\.gradle\caches\modules-2\files-2.1\com.squareup.haha\haha\1.3\d2c832f9d14a11c79f58a7ee2e10526a12152c72\haha-1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d2c832f9d14a11c79f58a7ee2e10526a12152c72">
+        <dex dex="J:\Final Sem\Capstone\Popular-Movies-App-master\Popular-Movies-App-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\haha-1.3_90db51bef766df0880f610bc43d124d0145a7a51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hhars\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="J:\Final Sem\Capstone\Popular-Movies-App-master\Popular-Movies-App-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.3.1_9e33e3805f5b81ebb1af51eabb5107b8d5900e9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hhars\.gradle\caches\modules-2\files-2.1\com.jakewharton.timber\timber\3.1.0\3ab2aedaeb4bfa698d0021cb843b2040fbf57fc\timber-3.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03ab2aedaeb4bfa698d0021cb843b2040fbf57fc">
+        <dex dex="J:\Final Sem\Capstone\Popular-Movies-App-master\Popular-Movies-App-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\timber-3.1.0_e579b22ebccce1c26f95a37cbfbfcbdad52ed79a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hhars\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="J:\Final Sem\Capstone\Popular-Movies-App-master\Popular-Movies-App-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-7.0.1_90a8b2ce6d91daa2e1a5234bae901d415732bc96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hhars\.gradle\caches\modules-2\files-2.1\com.squareup.dagger\dagger\1.2.2\e8f912ee19ad84958510883ea191135276b091f8\dagger-1.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e8f912ee19ad84958510883ea191135276b091f8">
+        <dex dex="J:\Final Sem\Capstone\Popular-Movies-App-master\Popular-Movies-App-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\dagger-1.2.2_825f8b08dc464ef340fcfafd2129f47661f804ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hhars\.android\build-cache\4742954ef5e55557cf430508511437797c90a80d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a60ad76c555501c6326126340f64fe7bd948e3eb">
+        <dex dex="J:\Final Sem\Capstone\Popular-Movies-App-master\Popular-Movies-App-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6338305a9b166bd3be21a45d1e4d2a161eceb370\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hhars\.android\build-cache\08cec8e4d0ba665d59e66c80c74ecc7b670d6ba1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="J:\Final Sem\Capstone\Popular-Movies-App-master\Popular-Movies-App-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8d993d03e321093e410a70cd29d9994977cd886b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hhars\.android\build-cache\9306bd881209a8c64dc0e1da66e8cc2e7d6870b5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="J:\Final Sem\Capstone\Popular-Movies-App-master\Popular-Movies-App-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_949dd31fad9d68d2929349e76127972199a42103\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hhars\.android\build-cache\e189ff151a2ce58ceeeb5b567e650585a973c4c3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="256c2cf84542c459927ed4aa5f99a9b47855c071">
+        <dex dex="J:\Final Sem\Capstone\Popular-Movies-App-master\Popular-Movies-App-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_849130bccc954d51a2d3a1ce869f908b51cc92a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hhars\.android\build-cache\1515576e909a608ee0a93eda8ef6439bb57b3c87\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="J:\Final Sem\Capstone\Popular-Movies-App-master\Popular-Movies-App-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b032b866ea0e15547761fd4440b127946bacfc10\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="J:\Final Sem\Capstone\Popular-Movies-App-master\Popular-Movies-App-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="80c08195c76d43f9bb13eed3d2617e3d04cd0e6a">
+        <dex dex="J:\Final Sem\Capstone\Popular-Movies-App-master\Popular-Movies-App-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_315df4cd76ae59c2cc616c3766a8e9d8c4ac9f06\classes.dex" />
+    </item>
+
+</items>
